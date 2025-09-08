@@ -1,0 +1,23 @@
+
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(½°“´úÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(º–Ãúþÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(ÖÎÛË
+F
+java:S1874"0Remove this use of "signWith"; it is deprecated.(ÖÎÛË
+Q
+java:S6437#"6Revoke and change this password, as it is compromised.(ªè£üÿÿÿÿ
+I
+java:S1874#".Remove this use of "parser"; it is deprecated.(ªè£üÿÿÿÿ
+P
+java:S1874#"5Remove this use of "setSigningKey"; it is deprecated.(ªè£üÿÿÿÿ
+U
+java:S1128":Remove this unused import 'io.jsonwebtoken.security.Keys'.(û±ÃŸúÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
+I
+java:S1128	".Remove this unused import 'java.security.Key'.(ÞÃ“úÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

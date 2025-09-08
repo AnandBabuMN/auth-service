@@ -1,0 +1,9 @@
+
+D
+java:S1165""Make this "errorCode" field final.(¾Õüÿÿÿÿ8ŸÜ©Å’3
+D
+java:S1165""Make this "errorDesc" field final.(áıµ¥şÿÿÿÿ8 Ü©Å’3
+O
+java:S1068"-Remove this unused "errorCode" private field.(¾Õüÿÿÿÿ8¡Ü©Å’3
+O
+java:S1068"-Remove this unused "errorDesc" private field.(áıµ¥şÿÿÿÿ8¡Ü©Å’3
